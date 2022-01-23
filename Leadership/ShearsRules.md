@@ -1,5 +1,5 @@
 # Shear's Rules
-From CDR Ed Shear USN / NOSC Chicago circa 2011
+From CDR Tom Shear USN / NOSC Chicago circa 2011
 
 1. Don't hit anything. To do that use bering and bearing rate, range and range rate, and lastly keep your eyes on them because they lie to you.
 2. Be precise, a lack of precision is dangerous when the margin of error is small.
